@@ -5,7 +5,8 @@ Key Skills Demonstrated:
 
 1. Large-scale Data Integration I used the Append tool in Power Query to consolidate three major datasets into a single table with over 940,000 rows, ensuring a unified foundation for analysis.
 
-![Data Integration](https://github.com/user-attachments/assets/50585140-1c33-46e5-8da1-3cbbc4707d7f)
+![Data Integration](https://github.com/user-attachments/assets/55c49b49-7893-4997-ac26-56726b31c1a4)
+
 
 2. Data Quality & Cleansing I ensured high data standards by monitoring Column Quality and removing null values. This refined the dataset, focusing the analysis on valid, high-impact energy improvements.
 
