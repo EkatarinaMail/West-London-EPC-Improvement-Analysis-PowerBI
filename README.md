@@ -7,7 +7,8 @@ Key Skills Demonstrated:
 
 2. Data Quality & Cleansing I ensured high data standards by monitoring Column Quality and removing null values. This refined the dataset, focusing the analysis on valid, high-impact energy improvements.
 
-![Data Profiling](https://github.com/user-attachments/assets/96417676-2bc3-48c3-9406-59c243952933)
+![Data Profiling](https://github.com/user-attachments/assets/ebb59842-f5ec-4701-ab75-3365c5e3b2bc)
+
 
 3. Relational Data Modelling I established a "One-to-Many" relationship between property records and recommendations using the LMK_KEY identifier. This architecture allows for seamless filtering between houses and their specific repair needs.
 
