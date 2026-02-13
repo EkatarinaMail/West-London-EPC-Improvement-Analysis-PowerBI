@@ -3,17 +3,17 @@ Project Overview: This project applies advanced data analysis to identify practi
 
 Key Skills Demonstrated:
 
-Large-scale Data Integration I used the Append tool in Power Query to consolidate three major datasets into a single table with over 940,000 rows, ensuring a unified foundation for analysis.
+1. Large-scale Data Integration I used the Append tool in Power Query to consolidate three major datasets into a single table with over 940,000 rows, ensuring a unified foundation for analysis.
 
-Data Quality & Cleansing I ensured high data standards by monitoring Column Quality and removing null values. This refined the dataset, focusing the analysis on valid, high-impact energy improvements.
+2. Data Quality & Cleansing I ensured high data standards by monitoring Column Quality and removing null values. This refined the dataset, focusing the analysis on valid, high-impact energy improvements.
 
 ![Data Profiling](https://github.com/user-attachments/assets/96417676-2bc3-48c3-9406-59c243952933)
 
-Relational Data Modelling I established a "One-to-Many" relationship between property records and recommendations using the LMK_KEY identifier. This architecture allows for seamless filtering between houses and their specific repair needs.
+3. Relational Data Modelling I established a "One-to-Many" relationship between property records and recommendations using the LMK_KEY identifier. This architecture allows for seamless filtering between houses and their specific repair needs.
 
 ![Relational_Data_Modeling_Star_Schema](https://github.com/user-attachments/assets/8c3f30dc-7042-4e47-96c0-2fa513c61dae)
 
-Interactive Dashboard Design I developed an executive-level dashboard featuring borough-level benchmarking, property segmentation, and cards to provide a comprehensive overview of energy improvement opportunities across West London.
+4. Interactive Dashboard Design I developed an executive-level dashboard featuring borough-level benchmarking, property segmentation, and cards to provide a comprehensive overview of energy improvement opportunities across West London.
 
 ![Interactive_Executive_Summary_Dashboard](https://github.com/user-attachments/assets/e6ea072c-d10b-4832-9c2d-f06bbea88af1)
 
