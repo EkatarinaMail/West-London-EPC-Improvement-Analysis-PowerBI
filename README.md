@@ -31,4 +31,4 @@ Power BI Desktop, Power Query, UK EPC Open Data.
 
 This project builds on my earlier analysis of EPC ratings and borough-level performance:
 
-[West London EPC Performance Analysis Power BI](https://github.com/EkatarinaMail/West-London-EPC-Improvement-Analysis-PowerBI/blob/main/README.md)
+[West London EPC Analysis](https://github.com/EkatarinaMail/West-London-EPC-Analysis-H-F-Ealing-Hounslow)
