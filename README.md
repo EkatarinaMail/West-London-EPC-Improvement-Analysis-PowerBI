@@ -1,4 +1,5 @@
-# West-London-EPC-Improvement-Analysis-PowerBI
+# West London EPC Improvement Analysis Power BI
+
 Project Overview: This project applies advanced data analysis to identify practical solutions for improving energy efficiency in West London homes. By merging extensive datasets, I created a master list of nearly 1 million strategic recommendations to determine which upgrades such as insulation or efficient lighting are most effective for different property types. The goal is to provide actionable insights that support regional carbon reduction and 2030 Net Zero housing targets.
 
 Key Skills Demonstrated:
